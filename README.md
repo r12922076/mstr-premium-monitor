@@ -16,6 +16,7 @@ This repo builds a public GitHub Pages site that tracks **Strategy (MSTR)** rela
   - `premium_to_nav`
 - Publishes a static dashboard via **GitHub Pages**
 - Uses **GitHub Actions** for scheduled refreshes
+- Optionally generates a short build-time summary written to `docs/data/summary.json`
 
 ## Indicator definition
 
@@ -45,6 +46,7 @@ mstr-premium-monitor/
 │  ├─ fetch_market_data.py
 │  ├─ build_indicator.py
 │  ├─ validate_output.py
+│  ├─ generate_summary.py
 │  └─ utils.py
 ├─ data/
 │  ├─ config/fundamentals.json
@@ -89,13 +91,27 @@ python scripts/build_indicator.py
 python scripts/validate_output.py --skip-recency-check
 ```
 
+## Optional AI summary
+
+This repo now supports an **optional build-time summary** path:
+
+- Default behavior: a rule-based summary is generated every run.
+- Optional Gemma behavior: if you enable repo variable `ENABLE_AI_SUMMARY=1`, set `SUMMARY_MODEL_ID=google/gemma-3-1b-it`, and provide a `HF_TOKEN`, the workflow will try to generate the summary with Gemma and fall back to the rule-based summary if that fails.
+
+Recommended first pass:
+
+1. Keep `ENABLE_AI_SUMMARY` unset or set to `0`.
+2. Confirm the workflow succeeds with the rule-based summary.
+3. Then turn on the optional Gemma path.
+
 ## Deployment assumption
 
 This repo is structured so that:
 
 - the website is served from `docs/`
 - the chart reads `docs/data/indicator.json`
-- GitHub Actions refreshes both `data/processed/indicator.json` and `docs/data/indicator.json`
+- the AI summary box reads `docs/data/summary.json`
+- GitHub Actions refreshes indicator and summary outputs
 
 ## Workflow behavior
 
@@ -142,3 +158,13 @@ Please re-check and update these values before final submission:
 - `shares_outstanding`
 - `holdings_as_of`
 - the public website URL inside the report draft
+
+## GitHub repo settings for optional Gemma summary
+
+If you want to test the optional Gemma path, add these in **Settings → Secrets and variables → Actions**:
+
+- **Repository variable** `ENABLE_AI_SUMMARY=1`
+- **Repository variable** `SUMMARY_MODEL_ID=google/gemma-3-1b-it`
+- **Repository secret** `HF_TOKEN=<your Hugging Face token>`
+
+Leave `ENABLE_AI_SUMMARY=0` or unset if you only want the safe fallback summary.

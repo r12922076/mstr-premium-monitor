@@ -89,6 +89,12 @@
           <p id="insightText">Insight will appear here once the latest data is loaded.</p>
         </article>
 
+        <article class="card">
+          <h2>AI Summary</h2>
+          <p id="aiSummaryText">Summary will appear here after the workflow runs.</p>
+          <p id="aiSummaryMeta" class="meta-notes">Optional Gemma build-time summary</p>
+        </article>
+
         <article class="card full-width">
           <h2>Methodology & Data</h2>
           <ul class="meta-list">
@@ -96,6 +102,7 @@
             <li><strong>MSTR market data:</strong> pulled daily in the update workflow.</li>
             <li><strong>Fundamentals:</strong> maintained manually in <code>data/config/fundamentals.json</code>.</li>
             <li><strong>Deployment:</strong> static website published via GitHub Pages from the <code>docs/</code> folder.</li>
+            <li><strong>Optional AI summary:</strong> generated during the update workflow and written to <code>docs/data/summary.json</code>.</li>
           </ul>
           <p id="metaNotes" class="meta-notes"></p>
         </article>

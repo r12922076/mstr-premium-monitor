@@ -54,3 +54,13 @@ on:
 ```
 
 If you want a Taiwan morning refresh, adjust the cron to the UTC time you prefer.
+
+
+## Optional Gemma summary checklist
+
+- [ ] Keep the first workflow test on the default fallback summary path.
+- [ ] If you want the Gemma path, accept the Gemma model terms on Hugging Face first.
+- [ ] Add repository variable `ENABLE_AI_SUMMARY=1`.
+- [ ] Add repository variable `SUMMARY_MODEL_ID=google/gemma-3-1b-it`.
+- [ ] Add repository secret `HF_TOKEN`.
+- [ ] Re-run the workflow and confirm `docs/data/summary.json` shows `backend: transformers` instead of `rule_based`.

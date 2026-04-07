@@ -81,3 +81,8 @@ https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/
 ## 6. Conclusion
 
 This project builds a practical monitoring dashboard for a DAT.co-related valuation indicator. By combining data collection, indicator construction, and web visualization, the website provides a simple way to observe how MSTR trades relative to its BTC-backed valuation proxy over time. The final result is a low-cost and reproducible daily monitoring platform that fits the assignment requirements.
+
+
+## Optional AI-Generated Summary
+
+The dashboard also supports an optional build-time summary module. During the scheduled update workflow, the system can attempt to generate a short natural-language summary from the latest indicator data. In the default safe configuration, the summary is rule-based. If the optional Gemma configuration is enabled, the workflow attempts to use a small Gemma model and writes the generated text to `docs/data/summary.json`.

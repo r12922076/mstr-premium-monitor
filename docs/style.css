@@ -197,3 +197,7 @@ li {
     min-height: 320px;
   }
 }
+
+#aiSummaryText {
+  margin-bottom: 8px;
+}

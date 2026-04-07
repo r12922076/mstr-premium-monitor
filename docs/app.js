@@ -2,6 +2,14 @@ let premiumChart = null;
 let cachedPayload = null;
 let activeRange = '30D';
 
+async function loadSummary() {
+  const response = await fetch('./data/summary.json', { cache: 'no-store' });
+  if (!response.ok) {
+    throw new Error(`Failed to load summary data: ${response.status}`);
+  }
+  return response.json();
+}
+
 async function loadData() {
   const response = await fetch('./data/indicator.json', { cache: 'no-store' });
   if (!response.ok) {
@@ -182,6 +190,15 @@ function bindButtons() {
   });
 }
 
+function renderAiSummary(summaryPayload) {
+  setText('aiSummaryText', summaryPayload.summary || 'No summary available.');
+  const source = summaryPayload.backend === 'transformers'
+    ? `Gemma-generated · ${summaryPayload.model_id || 'custom model'}`
+    : 'Rule-based fallback';
+  const suffix = summaryPayload.generated_at ? ` · ${formatTimestamp(summaryPayload.generated_at)}` : '';
+  setText('aiSummaryMeta', `${source}${suffix}`);
+}
+
 async function main() {
   try {
     cachedPayload = await loadData();
@@ -189,11 +206,22 @@ async function main() {
     renderChart(cachedPayload.series, activeRange);
     renderInsight(getLatestRow(cachedPayload.series));
     bindButtons();
+
+    try {
+      const summaryPayload = await loadSummary();
+      renderAiSummary(summaryPayload);
+    } catch (summaryError) {
+      console.warn(summaryError);
+      setText('aiSummaryText', 'Summary unavailable. Run the update workflow to regenerate it.');
+      setText('aiSummaryMeta', 'No summary file loaded');
+    }
   } catch (error) {
     console.error(error);
     setText('premiumValue', 'Load error');
     setText('premiumSubtext', 'Check docs/data/indicator.json');
     setText('insightText', error.message);
+    setText('aiSummaryText', 'Summary unavailable because indicator data failed to load.');
+    setText('aiSummaryMeta', 'Load error');
   }
 }
 
