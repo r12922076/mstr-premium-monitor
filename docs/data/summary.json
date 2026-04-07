@@ -1,9 +1,6 @@
 {
-  "model_family": "rule_based",
   "backend": "rule_based",
-  "model_id": null,
-  "generated_at": "2026-04-07T18:10:40Z",
-  "fallback_used": false,
-  "summary": "As of 2026-04-07, MSTR is trading at a discount to the Bitcoin-backed NAV proxy, with premium to NAV at -16.24% and mNAV at 0.84x. Over the last 30 observations, the premium has narrowed by 6.81%, compared with an average premium of -9.78%. During the same window, BTC moved 7.15% while MSTR moved -0.91%, suggesting that the equity valuation may be reflecting more than spot Bitcoin exposure alone.",
-  "prompt_preview": "Write a concise 2-3 sentence dashboard summary for a student project about a DAT.co indicator. Focus only on the recent data below. Avoid investment advice. Mention whether the premium is high, moderate, or negative; note whether it widened or narrowed; and relate it briefly to BTC behavior.\n\nCompany: Strategy (MSTR)\nLatest date: 2026-04-07\nLatest premium to NAV: -16.24%\nLatest mNAV: 0.84x\nLatest BTC price: $68663.48\nLatest stock price: $123.48\nRecent window length: 30 observations\nWindow start "
+  "model": "rule-based-fallback",
+  "generated_at": "2026-04-07T19:09:04.993966+00:00",
+  "summary": "MSTR is trading at or below its Bitcoin-backed NAV proxy. The short-run premium has softened relative to the recent monthly average, suggesting cooling sentiment. Latest market values are available in the dashboard."
 }
