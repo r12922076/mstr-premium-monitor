@@ -1,0 +1,11 @@
+{
+  "ticker": "MSTR",
+  "company_name": "Strategy",
+  "btc_ticker": "BTC-USD",
+  "btc_holdings": 528185,
+  "shares_outstanding": 246000000,
+  "currency": "USD",
+  "holdings_as_of": "2025-03-31",
+  "notes": "Update btc_holdings and shares_outstanding manually from public company disclosures before final submission if needed.",
+  "source_note": "This project tracks a Bitcoin-backed NAV proxy, not full enterprise NAV."
+}
