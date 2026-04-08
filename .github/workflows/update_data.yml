@@ -50,9 +50,7 @@ jobs:
           mkdir -p .models
           ASSET_NAME="${{ vars.MODEL_ASSET_NAME }}"
           RELEASE_TAG="${{ vars.MODEL_RELEASE_TAG }}"
-          curl -L \
-            "https://github.com/${{ github.repository }}/releases/download/${RELEASE_TAG}/${ASSET_NAME}" \
-            -o "/tmp/${ASSET_NAME}"
+          curl -L             "https://github.com/${{ github.repository }}/releases/download/${RELEASE_TAG}/${ASSET_NAME}"             -o "/tmp/${ASSET_NAME}"
           tar -xzf "/tmp/${ASSET_NAME}" -C .models
           echo "GGUF_MODEL_PATH=$GITHUB_WORKSPACE/.models/${{ vars.GGUF_MODEL_FILE }}" >> "$GITHUB_ENV"
 
