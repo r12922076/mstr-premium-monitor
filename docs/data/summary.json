@@ -1,6 +1,7 @@
 {
-  "backend": "rule_based",
-  "model": "rule-based-fallback",
-  "generated_at": "2026-04-08T00:01:57.463246+00:00",
-  "summary": "MSTR is trading at or below its Bitcoin-backed NAV proxy. The short-run premium has softened relative to the recent monthly average, suggesting cooling sentiment. Latest market values are available in the dashboard."
+  "backend": "gemini",
+  "model_id": "gemini-2.5-flash-lite",
+  "generated_at": "2026-04-08T09:12:54Z",
+  "fallback_used": false,
+  "summary": "The MSTR strategy product currently exhibits a modest negative premium to NAV, which has widened significantly over the past 30 observations. This widening premium divergence occurred despite a positive return in Bitcoin, while the strategy itself experienced a slight decline."
 }
