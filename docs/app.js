@@ -192,9 +192,12 @@ function bindButtons() {
 
 function renderAiSummary(summaryPayload) {
   setText('aiSummaryText', summaryPayload.summary || 'No summary available.');
-  const source = summaryPayload.backend === 'transformers'
-    ? `Gemma-generated · ${summaryPayload.model_id || 'custom model'}`
-    : 'Rule-based fallback';
+  let source = 'Rule-based fallback';
+  if (summaryPayload.backend === 'gemini') {
+    source = `Gemini API · ${summaryPayload.model_id || 'custom model'}`;
+  } else if (summaryPayload.backend === 'transformers') {
+    source = `Gemma-generated · ${summaryPayload.model_id || 'custom model'}`;
+  }
   const suffix = summaryPayload.generated_at ? ` · ${formatTimestamp(summaryPayload.generated_at)}` : '';
   setText('aiSummaryMeta', `${source}${suffix}`);
 }
