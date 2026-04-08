@@ -60,7 +60,7 @@ jobs:
           set -euxo pipefail
           git clone --depth 1 https://github.com/ggml-org/llama.cpp.git /tmp/llama.cpp
           cmake -S /tmp/llama.cpp -B /tmp/llama.cpp/build
-          cmake --build /tmp/llama.cpp/build --config Release -j 2
+          cmake --build /tmp/llama.cpp/build --config Release --target llama-cli -j 2
           echo "LLAMA_CLI_PATH=/tmp/llama.cpp/build/bin/llama-cli" >> "$GITHUB_ENV"
 
       - name: Generate dashboard summary

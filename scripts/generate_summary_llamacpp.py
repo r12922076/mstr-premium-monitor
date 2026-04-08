@@ -125,21 +125,25 @@ def run_llama_cli(prompt: str) -> str:
     cmd = [
         llama_cli,
         "-m", model_path,
-        "-n", "120",
-        "-c", "4096",
+        "-n", "16",
+        "-c", "1024",
         "-t", "4",
-        "--temp", "0.2",
-        "--top-p", "0.9",
+        "--temp", "0.1",
+        "--top-p", "0.8",
         "-p", prompt,
         "--no-display-prompt",
     ]
+    print("About to run llama-cli...", flush=True)
+    print("Command:", " ".join(cmd), flush=True)
+
     result = subprocess.run(
         cmd,
         capture_output=True,
         text=True,
         check=True,
+        timeout=60,
     )
-    text = result.stdout.strip()
+    text = (result.stdout or "").strip()
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
