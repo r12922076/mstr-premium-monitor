@@ -142,7 +142,7 @@ def run_llama_cli(prompt: str) -> str:
             capture_output=True,
             text=True,
             check=True,
-            timeout=60,
+            timeout=600,
         )
     except subprocess.CalledProcessError as e:
         print("llama-cli return code:", e.returncode, flush=True)
