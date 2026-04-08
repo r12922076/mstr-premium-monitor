@@ -136,13 +136,25 @@ def run_llama_cli(prompt: str) -> str:
     print("About to run llama-cli...", flush=True)
     print("Command:", " ".join(cmd), flush=True)
 
-    result = subprocess.run(
-        cmd,
-        capture_output=True,
-        text=True,
-        check=True,
-        timeout=60,
-    )
+    try:
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            check=True,
+            timeout=60,
+        )
+    except subprocess.CalledProcessError as e:
+        print("llama-cli return code:", e.returncode, flush=True)
+        print("llama-cli stdout:", (e.stdout or "")[-4000:], flush=True)
+        print("llama-cli stderr:", (e.stderr or "")[-4000:], flush=True)
+        raise
+    except subprocess.TimeoutExpired as e:
+        print("llama-cli timed out", flush=True)
+        print("llama-cli stdout:", ((e.stdout or "") if isinstance(e.stdout, str) else "")[-4000:], flush=True)
+        print("llama-cli stderr:", ((e.stderr or "") if isinstance(e.stderr, str) else "")[-4000:], flush=True)
+        raise
+
     text = (result.stdout or "").strip()
     text = re.sub(r"\s+", " ", text).strip()
     return text
