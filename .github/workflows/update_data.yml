@@ -1,14 +1,14 @@
 name: Update market data
 
 on:
-  schedule:
-    - cron: '17 * * * *'
-    # 正式交作業前可改成每日，例如：
-    # - cron: '5 0 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-market-data-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   update-data:
@@ -71,9 +71,27 @@ jobs:
         run: python scripts/generate_summary_llamacpp.py
 
       - name: Commit updated data
+        env:
+          ENABLE_AI_SUMMARY: ${{ vars.ENABLE_AI_SUMMARY }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ "${ENABLE_AI_SUMMARY:-0}" = "1" ]; then
+            BACKEND="$(python - <<'PY2'
+import json
+from pathlib import Path
+p = Path("docs/data/summary.json")
+print(json.load(p.open())["backend"])
+PY2
+)"
+            echo "Summary backend: $BACKEND"
+            if [ "$BACKEND" != "llama.cpp" ]; then
+              echo "Summary fell back; restoring previous summary files so they do not overwrite the site."
+              git restore data/processed/summary.json docs/data/summary.json || true
+            fi
+          fi
+
           git add data/raw/*.csv data/processed/* docs/data/* scripts/generate_summary_llamacpp.py
           if git diff --staged --quiet; then
             echo "No changes to commit."
