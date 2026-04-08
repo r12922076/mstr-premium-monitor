@@ -72,17 +72,12 @@ jobs:
         env:
           ENABLE_AI_SUMMARY: ${{ vars.ENABLE_AI_SUMMARY }}
         run: |
+          set -euxo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           if [ "${ENABLE_AI_SUMMARY:-0}" = "1" ]; then
-            BACKEND="$(python - <<'PY2'
-import json
-from pathlib import Path
-p = Path('docs/data/summary.json')
-print(json.load(p.open())['backend'])
-PY2
-)"
+            BACKEND="$(python -c "import json; print(json.load(open('docs/data/summary.json'))['backend'])")"
             echo "Summary backend: $BACKEND"
             if [ "$BACKEND" != "llama.cpp" ]; then
               echo "Summary fell back; restoring previous summary files."
