@@ -35,6 +35,8 @@ def fallback_summary(meta: dict, series: list[dict]) -> dict:
     latest_mnav = safe_float(latest.get("mnav"))
     latest_btc = safe_float(latest.get("btc_close"))
     latest_stock = safe_float(latest.get("stock_close"))
+    if latest_stock is None:
+        latest_stock = safe_float(latest.get("mstr_close"))
 
     avg7 = mean([safe_float(x["premium_to_nav"]) for x in recent_7 if safe_float(x.get("premium_to_nav")) is not None])
     avg30 = mean([safe_float(x["premium_to_nav"]) for x in recent_30 if safe_float(x.get("premium_to_nav")) is not None])
@@ -79,9 +81,18 @@ def build_prompt(meta: dict, series: list[dict]) -> str:
     latest_mnav = safe_float(latest.get("mnav"))
     latest_btc = safe_float(latest.get("btc_close"))
     latest_stock = safe_float(latest.get("stock_close"))
+    if latest_stock is None:
+        latest_stock = safe_float(latest.get("mstr_close"))
 
     avg7 = mean([safe_float(x["premium_to_nav"]) for x in recent_7 if safe_float(x.get("premium_to_nav")) is not None])
     avg30 = mean([safe_float(x["premium_to_nav"]) for x in recent_30 if safe_float(x.get("premium_to_nav")) is not None])
+
+    latest_premium_str = "NA" if latest_premium is None else f"{latest_premium:.6f}"
+    latest_mnav_str = "NA" if latest_mnav is None else f"{latest_mnav:.6f}"
+    latest_btc_str = "NA" if latest_btc is None else f"{latest_btc:.2f}"
+    latest_stock_str = "NA" if latest_stock is None else f"{latest_stock:.2f}"
+    avg7_str = "NA" if avg7 is None else f"{avg7:.6f}"
+    avg30_str = "NA" if avg30 is None else f"{avg30:.6f}"
 
     return f"""You are writing a short dashboard summary for a finance website.
 Write exactly 2 to 4 sentences.
@@ -95,12 +106,12 @@ Context:
 - Ticker: {meta.get('ticker', 'Unknown')}
 - Indicator: premium_to_nav
 - Interpretation: positive means premium to Bitcoin-backed NAV proxy; negative means discount.
-- Latest premium_to_nav: {latest_premium:.6f}
-- Latest mNAV: {latest_mnav:.6f}
-- Latest BTC price: {latest_btc:.2f}
-- Latest stock price: {latest_stock:.2f}
-- Mean premium_to_nav over last 7 observations: {avg7:.6f}
-- Mean premium_to_nav over last 30 observations: {avg30:.6f}
+- Latest premium_to_nav: {latest_premium_str}
+- Latest mNAV: {latest_mnav_str}
+- Latest BTC price: {latest_btc_str}
+- Latest stock price: {latest_stock_str}
+- Mean premium_to_nav over last 7 observations: {avg7_str}
+- Mean premium_to_nav over last 30 observations: {avg30_str}
 - Latest date: {latest.get('date')}
 
 Task:
