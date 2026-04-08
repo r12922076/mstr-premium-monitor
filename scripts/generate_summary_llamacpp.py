@@ -8,17 +8,14 @@ from datetime import datetime, timezone
 from pathlib import Path
 from statistics import mean
 
-
 ROOT = Path(__file__).resolve().parents[1]
 INDICATOR_JSON = ROOT / "data" / "processed" / "indicator.json"
 PROCESSED_SUMMARY_JSON = ROOT / "data" / "processed" / "summary.json"
 DOCS_SUMMARY_JSON = ROOT / "docs" / "data" / "summary.json"
 
-
 def load_indicator() -> dict:
     with INDICATOR_JSON.open("r", encoding="utf-8") as f:
         return json.load(f)
-
 
 def safe_float(x):
     try:
@@ -26,10 +23,8 @@ def safe_float(x):
     except Exception:
         return None
 
-
 def slice_recent(series: list[dict], n: int) -> list[dict]:
     return series[-n:] if len(series) >= n else series
-
 
 def fallback_summary(meta: dict, series: list[dict]) -> dict:
     latest = series[-1]
@@ -75,7 +70,6 @@ def fallback_summary(meta: dict, series: list[dict]) -> dict:
         "summary": " ".join([sentence1, sentence2, sentence3]).strip(),
     }
 
-
 def build_prompt(meta: dict, series: list[dict]) -> str:
     latest = series[-1]
     recent_7 = slice_recent(series, 7)
@@ -113,7 +107,6 @@ Task:
 Write a brief market commentary summarizing the latest premium level and whether short-run sentiment appears stronger or weaker than the recent monthly average.
 """
 
-
 def run_llama_cli(prompt: str) -> str:
     llama_cli = os.environ["LLAMA_CLI_PATH"]
     model_path = os.environ["GGUF_MODEL_PATH"]
@@ -139,7 +132,6 @@ def run_llama_cli(prompt: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-
 def save_summary(payload: dict) -> None:
     PROCESSED_SUMMARY_JSON.parent.mkdir(parents=True, exist_ok=True)
     DOCS_SUMMARY_JSON.parent.mkdir(parents=True, exist_ok=True)
@@ -147,7 +139,6 @@ def save_summary(payload: dict) -> None:
     for target in [PROCESSED_SUMMARY_JSON, DOCS_SUMMARY_JSON]:
         with target.open("w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
-
 
 def main() -> None:
     data = load_indicator()
@@ -186,7 +177,6 @@ def main() -> None:
     payload = fallback_summary(meta, series)
     save_summary(payload)
     print("Generated fallback summary.")
-
 
 if __name__ == "__main__":
     main()
