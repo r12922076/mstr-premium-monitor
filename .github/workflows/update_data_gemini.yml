@@ -2,7 +2,7 @@ name: Update market data Gemini
 
 on:
   schedule:
-    - cron: '5 1 * * *'
+    - cron: '33 2 * * *'
   workflow_dispatch:
 
 permissions:
