@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-16T06:16:12Z",
+  "generated_at": "2026-04-17T06:13:49Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy strategy shows a **modest negative premium** to its net asset value, which has **narrowed** over the past 30 observations. This premium movement occurred while Bitcoin experienced a positive return."
+  "summary": "The MSTR strategy shows a modest negative premium to NAV, which has recently widened by 4.43% over a 30-day window. This widening occurred despite a modest positive return in Bitcoin during the same period."
 }
