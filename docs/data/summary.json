@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-18T05:54:10Z",
+  "generated_at": "2026-04-19T06:07:44Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) data shows a **modest negative premium** of -7.70% relative to its Net Asset Value. This premium has **narrowed slightly** over the past 30 days, moving from -8.08% towards breakeven. The changes in the premium appear to have tracked recent Bitcoin price movements."
+  "summary": "The MSTR product's premium to NAV has shifted from a negative average to a slightly positive 0.56% over the last 30 days, indicating a widening trend. This widening premium movement broadly correlates with a recent increase in Bitcoin's price and a stronger performance by the company's stock."
 }
