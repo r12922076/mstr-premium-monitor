@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-20T06:30:00Z",
+  "generated_at": "2026-04-21T06:13:34Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy is currently trading at a modest premium of 0.56% to its NAV, which has widened significantly over the past 30 days. This widening premium occurred alongside a strong BTC price increase and an even stronger stock return, suggesting investor sentiment has improved."
+  "summary": "The MSTR strategy's premium to NAV is currently modest at 0.56%, having widened significantly from -8.73% over the past 30 observations, moving from a discount to a slight premium. This widening occurred alongside a notable increase in Bitcoin's price and a stronger gain in the company's stock price over the same period."
 }
