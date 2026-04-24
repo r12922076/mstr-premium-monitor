@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-23T06:20:01Z",
+  "generated_at": "2026-04-24T05:16:11Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy stock is trading at a modest premium of 0.02% to its Net Asset Value, which has widened significantly from a negative premium over the last 30 days. This widening occurred as the stock experienced a higher return than Bitcoin during the observed period."
+  "summary": "The premium to NAV for MicroStrategy (MSTR) has shifted from a modest negative to a slightly positive 6.82% over the last 30 days, widening considerably. This widening occurred as the stock price saw a significant return, outpacing the Bitcoin price increase during the same period. The current premium indicates a relatively modest valuation compared to its net asset value."
 }
