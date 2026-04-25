@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-24T05:21:58Z",
+  "generated_at": "2026-04-25T05:01:28Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy stock currently trades at a modest premium to its net asset value, having widened significantly over the past 30 days. This premium expansion occurred while Bitcoin experienced positive returns, and the stock itself saw a higher return, suggesting market sentiment may be a contributing factor."
+  "summary": "The Strategy (MSTR) trust currently trades at a modest premium of 2.63% to its Net Asset Value (NAV). This premium has widened significantly over the last 30 observations, moving from a negative premium to its current level, mirroring the strong performance of Bitcoin over the same period."
 }
