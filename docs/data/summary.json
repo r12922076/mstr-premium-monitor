@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-25T05:08:31Z",
+  "generated_at": "2026-04-26T05:19:14Z",
   "fallback_used": false,
-  "summary": "The company's premium to Net Asset Value (NAV) is modest, having widened significantly from negative territory to 2.63% over the last 30 observations. This premium expansion occurred alongside a strong stock return, which outpaced the Bitcoin price return during the same period."
+  "summary": "The company's premium to NAV is currently modest at 2.84%, widening significantly from a negative -8.34% over the past 30 observations. This widening premium outpaced Bitcoin's return during the same period, suggesting increased investor interest in the stock relative to its underlying asset."
 }
