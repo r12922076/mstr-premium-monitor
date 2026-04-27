@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-27T05:22:26Z",
+  "generated_at": "2026-04-27T05:32:45Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) premium to Net Asset Value (NAV) has shifted from a negative to a modest positive, widening significantly over the last 30 days. This premium change occurred alongside a positive return in Bitcoin's price and a stronger positive return in the stock itself."
+  "summary": "The MSTR strategy's premium to NAV has shifted from negative to a modest 2.84%, widening significantly over the past 30 days. This widening premium outpaced the modest BTC return during the same period."
 }
