@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-26T05:23:41Z",
+  "generated_at": "2026-04-27T05:22:26Z",
   "fallback_used": false,
-  "summary": "The current premium for Strategy (MSTR) is modest at 2.84% and has widened significantly over the past 30 days by 11.17%. This widening occurred while Bitcoin experienced positive returns, and the stock itself saw a substantial increase."
+  "summary": "The MicroStrategy (MSTR) premium to Net Asset Value (NAV) has shifted from a negative to a modest positive, widening significantly over the last 30 days. This premium change occurred alongside a positive return in Bitcoin's price and a stronger positive return in the stock itself."
 }
