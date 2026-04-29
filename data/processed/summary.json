@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-29T05:23:13Z",
+  "generated_at": "2026-04-29T05:33:43Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy's premium to NAV has shifted from a modest negative to a low positive, widening significantly over the past 30 observations. This widening occurred alongside a positive BTC return, though the stock saw a considerably higher return. The current premium is 1.86%, a notable shift from the recent average of -8.86%."
+  "summary": "The MicroStrategy stock premium to NAV has shifted from a negative average of -8.86% to a modest positive 1.86% over the last 30 days, widening by 10.08%. This widening premium occurred alongside a positive BTC return, while the stock itself experienced a significant positive return during the same period."
 }
