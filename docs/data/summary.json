@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-04-29T05:33:43Z",
+  "generated_at": "2026-04-30T05:24:00Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy stock premium to NAV has shifted from a negative average of -8.86% to a modest positive 1.86% over the last 30 days, widening by 10.08%. This widening premium occurred alongside a positive BTC return, while the stock itself experienced a significant positive return during the same period."
+  "summary": "The strategy's premium to Net Asset Value (NAV) is currently modest at 1.08%, having widened by 6.40% over the past 30 observations from a negative average of -8.55%. This widening premium has occurred alongside a positive BTC return and a higher stock return within the same period."
 }
