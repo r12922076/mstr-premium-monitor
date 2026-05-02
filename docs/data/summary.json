@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-01T05:38:41Z",
+  "generated_at": "2026-05-02T05:18:17Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) company currently exhibits a modest negative premium to NAV of -2.77%. This premium has widened by 5.34% over the last 30 observations, aligning with a recent positive return in Bitcoin. The average premium over this period was also negative."
+  "summary": "The company's premium to NAV is currently modest at 0.99%, having widened significantly from a negative -7.91% over the past 30 observations. This widening premium coincided with a positive BTC return and a stronger stock return over the same period."
 }
