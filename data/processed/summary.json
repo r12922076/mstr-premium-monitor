@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-06T05:23:35Z",
+  "generated_at": "2026-05-06T05:36:07Z",
   "fallback_used": false,
-  "summary": "The MSTR trust's premium to NAV has shifted from a negative range to a modest positive premium of 7.24%. This widening of the premium by 16.47% over the last 30 observations occurred alongside a significant stock return that outpaced BTC's return during the same period."
+  "summary": "MSTR's premium to NAV has shifted from a modest negative to a high positive premium of 7.24% over the last 30 days, widening significantly. This widening premium occurred alongside a substantial 33.00% stock return, outpacing BTC's 12.57% gain during the same period."
 }
