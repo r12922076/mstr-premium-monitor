@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-13T05:32:43Z",
+  "generated_at": "2026-05-13T05:39:56Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) company's premium to Net Asset Value (NAV) has shifted from a modest negative to a positive premium of 11.66% over the last 30 observations. This widened premium is significantly higher than its average over the window and occurred alongside a strong increase in Bitcoin's price and substantial stock appreciation."
+  "summary": "The MSTR strategy has seen its premium to Net Asset Value (NAV) shift from negative to a **modest** positive of 11.66%, representing a **widening** of 26.85% over the past 30 observations. This premium expansion occurred alongside a significant increase in the stock price, which outpaced the Bitcoin return during the same period."
 }
