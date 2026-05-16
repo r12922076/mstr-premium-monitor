@@ -1,7 +1,7 @@
 {
-  "backend": "gemini",
-  "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-15T05:41:34Z",
-  "fallback_used": false,
-  "summary": "The premium to NAV for MSTR's latest date is modest at 4.59%, a significant widening from the -16.00% start of the 30-day window. This widening occurred alongside a substantial stock return of 45.00% and a 16.45% increase in BTC price over the same period."
+  "backend": "rule_based",
+  "model_id": null,
+  "generated_at": "2026-05-16T05:23:02Z",
+  "fallback_used": true,
+  "summary": "As of 2026-05-14, MSTR is trading at a premium to the Bitcoin-backed NAV proxy, with premium to NAV at 7.44% and mNAV at 1.07x. Over the last 30 observations, the premium has widened by 24.00%, compared with an average premium of -1.98%. During the same window, BTC moved 21.17% while MSTR moved 56.03%. [Fallback activated: ServerError]"
 }
