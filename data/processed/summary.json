@@ -1,7 +1,7 @@
 {
-  "backend": "rule_based",
-  "model_id": null,
-  "generated_at": "2026-05-16T05:23:02Z",
-  "fallback_used": true,
-  "summary": "As of 2026-05-14, MSTR is trading at a premium to the Bitcoin-backed NAV proxy, with premium to NAV at 7.44% and mNAV at 1.07x. Over the last 30 observations, the premium has widened by 24.00%, compared with an average premium of -1.98%. During the same window, BTC moved 21.17% while MSTR moved 56.03%. [Fallback activated: ServerError]"
+  "backend": "gemini",
+  "model_id": "gemini-2.5-flash-lite",
+  "generated_at": "2026-05-16T05:33:44Z",
+  "fallback_used": false,
+  "summary": "The Strategy (MSTR) stock currently trades at a modest premium of 7.44% to its Net Asset Value (NAV), a significant widening from its recent average. This premium increase occurred alongside a substantial rise in both the stock price and Bitcoin's price over the past 30 observations."
 }
