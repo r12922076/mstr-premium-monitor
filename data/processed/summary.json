@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-16T05:33:44Z",
+  "generated_at": "2026-05-17T05:32:47Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) stock currently trades at a modest premium of 7.44% to its Net Asset Value (NAV), a significant widening from its recent average. This premium increase occurred alongside a substantial rise in both the stock price and Bitcoin's price over the past 30 observations."
+  "summary": "The MSTR Strategy product currently trades at a modest premium of 4.51% to its net asset value (NAV). This premium has widened significantly over the past 30 days, moving from a discount to a premium, while the underlying Bitcoin price saw a positive return. The substantial stock return during this period outpaced Bitcoin's performance, contributing to the premium expansion."
 }
