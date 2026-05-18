@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-18T05:38:25Z",
+  "generated_at": "2026-05-18T05:50:18Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) company's premium to NAV has shifted from a modest negative to a modest positive over the last 30 observations, widening significantly. This widening occurred alongside a strong rise in both the stock and Bitcoin prices during the observation period. The current premium is 4.51%."
+  "summary": "The premium for MicroStrategy (MSTR) is currently modest at 4.51%, having widened significantly from a negative position over the past 30 days. This premium expansion occurred alongside a notable increase in BTC price and a higher stock return, indicating a positive correlation with Bitcoin's performance during the observed period."
 }
