@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-21T05:39:07Z",
+  "generated_at": "2026-05-21T05:50:46Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) trust is currently trading at a modest premium to its net asset value, having widened significantly over the past 30 days. This premium increase occurred despite a negative premium at the start of the window and coincided with positive BTC returns and stronger stock performance."
+  "summary": "The company's premium to Net Asset Value (NAV) is currently negative, indicating it trades below its underlying asset value. This premium has narrowed significantly from a wider negative range over the last 30 observations. The stock's performance has outpaced Bitcoin's over the same period, despite the current discount."
 }
