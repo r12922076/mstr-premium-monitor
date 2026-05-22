@@ -1,7 +1,7 @@
 {
-  "backend": "rule_based",
-  "model_id": null,
-  "generated_at": "2026-05-22T05:37:36Z",
-  "fallback_used": true,
-  "summary": "As of 2026-05-20, MSTR is trading at a discount to the Bitcoin-backed NAV proxy, with premium to NAV at -0.30% and mNAV at 1.00x. Over the last 30 observations, the premium has widened by 16.07%, compared with an average premium of 0.38%. During the same window, BTC moved 7.93% while MSTR moved 28.67%. [Fallback activated: ServerError]"
+  "backend": "gemini",
+  "model_id": "gemini-2.5-flash-lite",
+  "generated_at": "2026-05-22T05:47:59Z",
+  "fallback_used": false,
+  "summary": "The MicroStrategy (MSTR) investment vehicle is currently trading at a modest negative premium of -0.30% to its net asset value. This premium has significantly widened from -16.37% over the past 30 observations, outpacing a modest BTC return of 7.93% with a substantial stock return of 28.67%."
 }
