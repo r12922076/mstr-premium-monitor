@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-22T05:47:59Z",
+  "generated_at": "2026-05-23T05:27:29Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) investment vehicle is currently trading at a modest negative premium of -0.30% to its net asset value. This premium has significantly widened from -16.37% over the past 30 observations, outpacing a modest BTC return of 7.93% with a substantial stock return of 28.67%."
+  "summary": "The MicroStrategy strategy premium to Net Asset Value (NAV) is currently modest at -0.98%, having widened significantly from -17.90% over the past 30 observations. This widening premium movement saw the stock outperform Bitcoin's return over the same period."
 }
