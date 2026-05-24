@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-24T05:36:55Z",
+  "generated_at": "2026-05-24T05:46:24Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy closed with a **modest** premium to NAV of -1.35%, which has **widened** significantly from -17.24% over the last 30 days, driven by a much higher stock return compared to BTC's return."
+  "summary": "The Strategy (MSTR) fund currently trades at a modest premium to NAV, which has widened considerably over the past 30 days. This widening premium occurred alongside a significant increase in the fund's stock price relative to Bitcoin's performance."
 }
