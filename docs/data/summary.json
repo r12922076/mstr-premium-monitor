@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-23T05:37:51Z",
+  "generated_at": "2026-05-24T05:36:55Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) DAT.co project shows a recent premium to NAV of -0.98%, indicating a modest discount. This premium has widened significantly over the past 30 observations, moving from a larger discount to near NAV parity, while BTC experienced positive returns. The stock price of MSTR also saw substantial gains during this period."
+  "summary": "The MSTR strategy closed with a **modest** premium to NAV of -1.35%, which has **widened** significantly from -17.24% over the last 30 days, driven by a much higher stock return compared to BTC's return."
 }
