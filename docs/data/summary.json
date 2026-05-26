@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-26T05:37:26Z",
+  "generated_at": "2026-05-26T05:48:33Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) tracking product is currently trading at a modest premium of -1.35% to its net asset value. This premium has widened significantly over the past 30 days, moving from a substantial discount to its current level, while BTC experienced a modest return. The product's premium has experienced volatility over the recent window, with a wide range observed."
+  "summary": "The MicroStrategy (MSTR) stock currently trades at a modest premium to NAV, which has narrowed significantly over the past 30 days, moving from a wide discount to a slight premium. This premium change appears largely uncorrelated with the BTC price movement during the same period."
 }
