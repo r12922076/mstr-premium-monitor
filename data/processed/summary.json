@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-29T05:51:52Z",
+  "generated_at": "2026-05-30T05:32:37Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy shows a modest premium to NAV of -3.40%, narrowing from -10.63% over the last 30 observations. This premium movement occurred despite a slightly negative BTC return during the same period, while the stock itself saw positive returns."
+  "summary": "The Strategy (MSTR) closed at a modest premium of -3.96% to its NAV, which widened from the start of the 30-day window. This premium movement occurred alongside a slight decline in BTC price and a positive return in the stock, indicating a divergence in performance."
 }
