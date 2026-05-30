@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-30T05:32:37Z",
+  "generated_at": "2026-05-30T05:39:30Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) closed at a modest premium of -3.96% to its NAV, which widened from the start of the 30-day window. This premium movement occurred alongside a slight decline in BTC price and a positive return in the stock, indicating a divergence in performance."
+  "summary": "The Strategy (MSTR) Trust is currently trading at a modest negative premium to its Net Asset Value (NAV). This premium has narrowed over the past 30 days, moving from -7.70% to -3.96%, while Bitcoin experienced a slight decline. The stock's performance diverged from BTC's, showing a positive return during this period."
 }
