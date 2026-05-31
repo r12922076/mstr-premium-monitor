@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-31T05:45:27Z",
+  "generated_at": "2026-05-31T05:53:00Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy fund's premium to Net Asset Value (NAV) is currently modest at 0.99%, having widened by 0.43% over the last 30 observations. This premium movement occurred as the Bitcoin price experienced a slight decline of -4.87% during the same period, with the stock price mirroring this trend."
+  "summary": "The MSTR strategy's premium to NAV is currently modest at 0.99% and has widened by 0.43% over the past 30 days, despite a slight decrease in the BTC price. This widening occurred from an average premium of 2.82% over the observed period, indicating a recent shift towards a lower premium."
 }
