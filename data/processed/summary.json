@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-05-31T05:53:00Z",
+  "generated_at": "2026-06-01T05:53:38Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy's premium to NAV is currently modest at 0.99% and has widened by 0.43% over the past 30 days, despite a slight decrease in the BTC price. This widening occurred from an average premium of 2.82% over the observed period, indicating a recent shift towards a lower premium."
+  "summary": "The premium for the MSTR strategy has narrowed to a modest 0.99% over the latest observation date, a decrease of 0.43% from the 30-day window start. This narrowed premium occurred while the Bitcoin price experienced a modest decline."
 }
