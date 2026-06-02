@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-02T05:51:39Z",
+  "generated_at": "2026-06-02T06:01:40Z",
   "fallback_used": false,
-  "summary": "The MSTR DAT.co project shows a modest premium of 0.99% to its Net Asset Value, which has widened by 0.43% over the last 30 observations. This premium widening occurred while Bitcoin experienced a slight decline, and the stock's return was comparable to BTC's performance."
+  "summary": "The strategy fund's premium to NAV is currently modest at 0.99%, having widened by 0.43% over the last 30 observations. This premium change occurred as Bitcoin experienced a modest decline, with the fund's stock price tracking its performance."
 }
