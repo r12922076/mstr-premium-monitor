@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-06T05:34:32Z",
+  "generated_at": "2026-06-06T05:42:12Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) investment trust currently trades at a modest negative premium to Net Asset Value (NAV). This premium has widened significantly over the past 30 days, declining from a positive premium to its current -5.56%, mirroring the recent decline in Bitcoin's price."
+  "summary": "The company's premium to Net Asset Value (NAV) is currently negative, having narrowed significantly over the past 30 days. This narrowing of the premium is observable alongside a decline in both Bitcoin and the company's stock price during the same period."
 }
