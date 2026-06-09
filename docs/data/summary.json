@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-08T06:04:05Z",
+  "generated_at": "2026-06-09T05:38:26Z",
   "fallback_used": false,
-  "summary": "The MSTR closed at a modest negative premium to its NAV, which narrowed significantly over the past 30 days. This premium compression occurred alongside a substantial decline in the stock price and a larger drop in Bitcoin's price over the same period."
+  "summary": "The MSTR closed at a **modest premium of -7.93%** to its NAV, a significant widening from the prior 30-day average of 1.37%. This widening occurred as both the stock and Bitcoin experienced substantial negative returns over the observed period."
 }
