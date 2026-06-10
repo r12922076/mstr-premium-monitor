@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-10T05:47:00Z",
+  "generated_at": "2026-06-10T05:54:01Z",
   "fallback_used": false,
-  "summary": "The MSTR product is currently trading at a modest negative premium of -6.10%, a significant narrowing from the positive premium observed at the start of the 30-day window. This premium contraction occurred alongside a substantial decrease in Bitcoin's price and the stock's own return."
+  "summary": "The MicroStrategy DAT.co project exhibits a **modest negative premium** of -6.10% to its net asset value, widening from a positive 1.86% at the start of the 30-day observation window. This widening occurred alongside a significant decrease in Bitcoin's price and a larger decline in the stock's price."
 }
