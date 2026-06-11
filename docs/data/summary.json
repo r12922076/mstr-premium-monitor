@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-10T05:54:01Z",
+  "generated_at": "2026-06-11T05:51:19Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy DAT.co project exhibits a **modest negative premium** of -6.10% to its net asset value, widening from a positive 1.86% at the start of the 30-day observation window. This widening occurred alongside a significant decrease in Bitcoin's price and a larger decline in the stock's price."
+  "summary": "The MSTR ETF's premium to NAV is currently negative, having narrowed significantly over the past 30 observations from a modest positive to a current -11.59%. This widening premium contraction coincided with a notable decline in both Bitcoin and the stock's price over the same period."
 }
