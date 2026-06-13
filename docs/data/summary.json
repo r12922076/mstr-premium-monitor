@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-12T06:00:23Z",
+  "generated_at": "2026-06-13T05:45:59Z",
   "fallback_used": false,
-  "summary": "The MSTR trust currently trades at a **modest negative premium** of -12.57%, representing a significant **widening** from its average over the past 30 days. This movement occurred while Bitcoin experienced a notable price decline."
+  "summary": "The MSTR ETF's premium to NAV is currently negative, reflecting a significant widening from its recent average. Over the past 30 days, the premium has shifted from a modest positive to a substantial negative, paralleling a notable decline in Bitcoin's price."
 }
