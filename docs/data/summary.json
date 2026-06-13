@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-13T05:45:59Z",
+  "generated_at": "2026-06-13T05:53:13Z",
   "fallback_used": false,
-  "summary": "The MSTR ETF's premium to NAV is currently negative, reflecting a significant widening from its recent average. Over the past 30 days, the premium has shifted from a modest positive to a substantial negative, paralleling a notable decline in Bitcoin's price."
+  "summary": "The MicroStrategy (MSTR) strategy's premium to NAV is currently a modest negative at -11.96%, having widened considerably over the past 30 days. This widening premium contraction coincided with a significant decline in both the stock's price and Bitcoin's price over the same period."
 }
