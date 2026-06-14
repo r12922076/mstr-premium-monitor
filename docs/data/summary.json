@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-13T05:53:13Z",
+  "generated_at": "2026-06-14T05:51:27Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) strategy's premium to NAV is currently a modest negative at -11.96%, having widened considerably over the past 30 days. This widening premium contraction coincided with a significant decline in both the stock's price and Bitcoin's price over the same period."
+  "summary": "The Strategy (MSTR) fund is currently trading at a negative premium of -9.13% to its net asset value (NAV), representing a significant widening from its previous positive premium. This shift occurred alongside a substantial decrease in Bitcoin's price over the observed 30-day window."
 }
