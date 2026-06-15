@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-15T06:04:17Z",
+  "generated_at": "2026-06-15T06:10:39Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) stock is currently trading at a negative premium of -9.13% to its Net Asset Value, which has significantly narrowed from 5.55% over the past 30 observations. This widening of the premium is occurring in parallel with a decrease in the BTC price, although the stock has experienced a larger decline than BTC during the observed period."
+  "summary": "The Strategy (MSTR) corporate investment product currently exhibits a negative premium to its Net Asset Value (NAV). This premium has significantly narrowed over the last 30 observations, moving from a modest positive to its current negative state. This trend broadly correlates with a recent decline in Bitcoin's price over the same period."
 }
