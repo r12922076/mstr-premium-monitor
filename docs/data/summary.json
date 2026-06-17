@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-16T06:16:01Z",
+  "generated_at": "2026-06-17T05:54:46Z",
   "fallback_used": false,
-  "summary": "MSTR's premium to NAV is currently negative, widening significantly from its recent window average. This widening premium coincided with a decline in both MSTR's stock price and BTC's price over the observed period."
+  "summary": "The MSTR fund's premium to NAV is currently negative, indicating a discount. This discount has widened significantly over the last 30 days, moving from a modest premium to a substantial discount, coinciding with a decline in both the fund's stock price and Bitcoin's price over the same period."
 }
