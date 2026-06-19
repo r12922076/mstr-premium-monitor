@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-19T05:58:33Z",
+  "generated_at": "2026-06-19T06:09:15Z",
   "fallback_used": false,
-  "summary": "The premium for MicroStrategy (MSTR) has moved from a modest positive to a negative value over the last 30 days, indicating a widening discount to its net asset value. This widening premium occurred alongside a significant decline in both Bitcoin's price and the stock's performance."
+  "summary": "The Strategy (MSTR) company's latest premium to Net Asset Value (NAV) is negative at -12.81%, having narrowed significantly by 20.37% over the last 30 observations. This widening premium contraction occurred alongside a substantial decrease in both Bitcoin and the stock's price over the same period."
 }
