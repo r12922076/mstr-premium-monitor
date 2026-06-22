@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-21T06:06:50Z",
+  "generated_at": "2026-06-22T06:05:52Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) fund's premium to Net Asset Value (NAV) is currently a modest negative, having widened significantly over the past 30 observations. This premium compression aligns with a notable decrease in Bitcoin's price during the same period."
+  "summary": "The MSTR DAT.co premium is currently negative at -16.67%, a significant widening from a positive premium 30 days ago, mirroring a similar sharp decline in Bitcoin's price. Over the recent window, the premium shifted from a modest positive to a negative state, coinciding with a substantial drop in both the stock and BTC prices."
 }
