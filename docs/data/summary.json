@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-22T06:05:52Z",
+  "generated_at": "2026-06-22T06:13:31Z",
   "fallback_used": false,
-  "summary": "The MSTR DAT.co premium is currently negative at -16.67%, a significant widening from a positive premium 30 days ago, mirroring a similar sharp decline in Bitcoin's price. Over the recent window, the premium shifted from a modest positive to a negative state, coinciding with a substantial drop in both the stock and BTC prices."
+  "summary": "The Strategy (MSTR) product is currently trading at a **modest negative premium** of -16.67%, which has **widened** significantly by -21.36% over the last 30 observations. This widening premium movement appears correlated with the 21.39% decline in Bitcoin's price over the same period."
 }
