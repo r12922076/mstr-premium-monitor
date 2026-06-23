@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-23T05:37:36Z",
+  "generated_at": "2026-06-23T05:49:22Z",
   "fallback_used": false,
-  "summary": "The MSTR fund's premium to NAV has recently moved to a **negative** level, widening significantly by -21.36% over the past 30 observations. This widening premium is broadly consistent with the -21.39% return observed in Bitcoin during the same period."
+  "summary": "The MicroStrategy (MSTR) Data Analysis Toolkit project indicates a negative premium of -16.67% to Net Asset Value (NAV), which has significantly widened by -21.36% over the past 30 observations. This widening premium appears correlated with a -21.39% BTC return over the same period."
 }
