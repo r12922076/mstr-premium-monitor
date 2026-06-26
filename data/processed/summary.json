@@ -1,7 +1,7 @@
 {
-  "backend": "gemini",
-  "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-26T05:39:23Z",
-  "fallback_used": false,
-  "summary": "The MSTR trust is currently trading at a negative premium to its net asset value, indicating a discount. This premium has widened significantly over the past 30 observations, moving from a modest positive to a notable negative, while Bitcoin experienced a moderate decline during the same period."
+  "backend": "rule_based",
+  "model_id": null,
+  "generated_at": "2026-06-26T05:51:06Z",
+  "fallback_used": true,
+  "summary": "As of 2026-06-24, MSTR is trading at a discount to the Bitcoin-backed NAV proxy, with premium to NAV at -28.12% and mNAV at 0.72x. Over the last 30 observations, the premium has narrowed by 34.85%, compared with an average premium of -6.37%. During the same window, BTC moved -24.21% while MSTR moved -48.96%. [Fallback activated: ServerError]"
 }
