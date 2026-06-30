@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-06-30T05:38:21Z",
+  "generated_at": "2026-06-30T05:49:50Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy exhibits a **negative premium** of -36.12% to its Net Asset Value, a significant **widening** from a positive premium observed at the start of the 30-day window. This premium contraction occurred alongside a substantial decline in both the stock price and the Bitcoin price over the same period."
+  "summary": "The MSTR trust's premium to NAV is currently a negative -36.12%, representing a significant widening from its prior positive state. This premium has compressed substantially over the last 30 observations, mirroring a challenging period for Bitcoin, which experienced a -25.95% return."
 }
