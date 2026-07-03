@@ -1,7 +1,7 @@
 {
   "backend": "rule_based",
   "model_id": null,
-  "generated_at": "2026-07-02T05:43:28Z",
+  "generated_at": "2026-07-03T05:33:25Z",
   "fallback_used": true,
-  "summary": "As of 2026-06-30, MSTR is trading at a discount to the Bitcoin-backed NAV proxy, with premium to NAV at -30.86% and mNAV at 0.69x. Over the last 30 observations, the premium has narrowed by 31.71%, compared with an average premium of -11.43%. During the same window, BTC moved -23.90% while MSTR moved -47.83%. [Fallback activated: ServerError]"
+  "summary": "As of 2026-07-01, MSTR is trading at a discount to the Bitcoin-backed NAV proxy, with premium to NAV at -27.51% and mNAV at 0.72x. Over the last 30 observations, the premium has narrowed by 27.41%, compared with an average premium of -12.38%. During the same window, BTC moved -21.82% while MSTR moved -43.27%. [Fallback activated: ServerError]"
 }
