@@ -1,7 +1,7 @@
 {
-  "backend": "rule_based",
-  "model_id": null,
-  "generated_at": "2026-07-04T05:28:56Z",
-  "fallback_used": true,
-  "summary": "As of 2026-07-02, MSTR is trading at a discount to the Bitcoin-backed NAV proxy, with premium to NAV at -23.67% and mNAV at 0.76x. Over the last 30 observations, the premium has narrowed by 23.37%, compared with an average premium of -13.16%. During the same window, BTC moved -20.62% while MSTR moved -39.23%. [Fallback activated: ServerError]"
+  "backend": "gemini",
+  "model_id": "gemini-2.5-flash-lite",
+  "generated_at": "2026-07-04T05:38:45Z",
+  "fallback_used": false,
+  "summary": "The MSTR corporate debt security currently exhibits a high negative premium of -23.67% to its net asset value. This premium has significantly widened from -0.30% over the last 30 observations, a period that saw a -20.62% return in BTC and a -39.23% return in the stock."
 }
