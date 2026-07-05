@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-04T05:38:45Z",
+  "generated_at": "2026-07-05T05:36:48Z",
   "fallback_used": false,
-  "summary": "The MSTR corporate debt security currently exhibits a high negative premium of -23.67% to its net asset value. This premium has significantly widened from -0.30% over the last 30 observations, a period that saw a -20.62% return in BTC and a -39.23% return in the stock."
+  "summary": "MicroStrategy's corporate structure is currently trading at a negative premium to its net asset value, with the discount widening significantly over the past 30 days. This trend appears correlated with a decline in Bitcoin's price during the same period. The widening negative premium suggests the market is valuing the company's assets at a discount relative to their underlying Bitcoin holdings."
 }
