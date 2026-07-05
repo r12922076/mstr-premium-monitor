@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-05T05:36:48Z",
+  "generated_at": "2026-07-05T05:46:46Z",
   "fallback_used": false,
-  "summary": "MicroStrategy's corporate structure is currently trading at a negative premium to its net asset value, with the discount widening significantly over the past 30 days. This trend appears correlated with a decline in Bitcoin's price during the same period. The widening negative premium suggests the market is valuing the company's assets at a discount relative to their underlying Bitcoin holdings."
+  "summary": "The MicroStrategy (MSTR) closed at a **modest** discount to its NAV. The discount has **widened** significantly over the last 30 days, diverging from the recent trend of a narrowing premium, and has moved into negative territory. This widening discount occurred alongside a notable decrease in BTC price and a larger decline in MSTR's stock price."
 }
