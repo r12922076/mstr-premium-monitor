@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-07T05:36:49Z",
+  "generated_at": "2026-07-07T05:48:48Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) DAT.co project shows a **high** negative premium of -23.67% to its latest mNAV of 0.76x. This premium has **widened** significantly by -23.37% over the past 30 observations, moving from a modest -0.30% to its current level. The substantial stock depreciation of -39.23% during this period, against a -20.62% BTC return, likely contributed to the widening discount."
+  "summary": "The premium for Strategy (MSTR) is currently negative at -23.67%, representing a significant widening from -0.30% at the start of the 30-day window. This widening occurred alongside a notable decrease in the Bitcoin price over the same period."
 }
