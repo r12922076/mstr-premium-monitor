@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-09T05:37:09Z",
+  "generated_at": "2026-07-09T05:47:08Z",
   "fallback_used": false,
-  "summary": "The MSTR DAT.co project exhibits a **high negative premium** of -28.36%, which has **widened** significantly by 27.01% over the last 30 days. This widening premium occurred alongside a substantial decline in MSTR's stock price, while Bitcoin also experienced a negative return during the same period."
+  "summary": "The MSTR DAT.co project shows a negative premium of -28.36% to NAV, indicating a significant discount. This premium has widened considerably over the past 30 observations, largely in line with the recent decline in Bitcoin's price. The stock's performance has been notably weaker than Bitcoin's over the observed period."
 }
