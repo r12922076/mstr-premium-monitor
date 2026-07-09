@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-08T05:30:42Z",
+  "generated_at": "2026-07-09T05:37:09Z",
   "fallback_used": false,
-  "summary": "The MSTR investment trust currently exhibits a high negative premium of -26.66% to its net asset value. This premium has widened significantly by -25.68% over the last 30 days, mirroring a substantial decline in the trust's stock price relative to Bitcoin's recent downward movement."
+  "summary": "The MSTR DAT.co project exhibits a **high negative premium** of -28.36%, which has **widened** significantly by 27.01% over the last 30 days. This widening premium occurred alongside a substantial decline in MSTR's stock price, while Bitcoin also experienced a negative return during the same period."
 }
