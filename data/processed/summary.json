@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-15T05:11:15Z",
+  "generated_at": "2026-07-15T05:16:53Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy stock premium to NAV is currently negative at -31.08%, representing a significant widening from a positive premium 30 days ago. This decline in premium coincided with a drop in Bitcoin's price and a larger decrease in the stock's return. The current premium is considered high relative to its recent negative range."
+  "summary": "The MicroStrategy (MSTR) data shows a significant negative premium of -31.08% to its Net Asset Value (NAV), indicating it is trading substantially below the value of its underlying Bitcoin holdings. This premium has widened considerably, decreasing by 32.07% over the last 30 days, a period during which Bitcoin also experienced a negative return. The current premium is considered high in its negativity."
 }
