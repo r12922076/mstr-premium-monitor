@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-15T05:16:53Z",
+  "generated_at": "2026-07-16T05:18:08Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) data shows a significant negative premium of -31.08% to its Net Asset Value (NAV), indicating it is trading substantially below the value of its underlying Bitcoin holdings. This premium has widened considerably, decreasing by 32.07% over the last 30 days, a period during which Bitcoin also experienced a negative return. The current premium is considered high in its negativity."
+  "summary": "The MSTR fund currently exhibits a **high negative premium** to its Net Asset Value, having narrowed significantly over the past 30 observations. This widening of the discount occurred during a period of BTC price decline and a larger decline in the fund's stock price."
 }
