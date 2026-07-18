@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-18T05:07:44Z",
+  "generated_at": "2026-07-18T05:12:20Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy stock is currently trading at a **high negative premium** to its net asset value, having **widened** significantly over the past 30 observations. This widening premium contraction has occurred alongside a slight decrease in Bitcoin's price and a substantial decline in the stock's return, indicating a divergence from its underlying Bitcoin exposure."
+  "summary": "The MSTR trust is currently trading at a **high** negative premium to NAV, indicating a significant discount. This premium has **widened** substantially over the last 30 days, outperforming Bitcoin's flat return during the same period."
 }
