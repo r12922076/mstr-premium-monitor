@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-17T05:24:40Z",
+  "generated_at": "2026-07-18T05:07:44Z",
   "fallback_used": false,
-  "summary": "The company's premium to net asset value (NAV) is currently negative and has significantly narrowed over the past 30 observations, moving from -4.98% to -29.85%. This widening negative premium occurred alongside a decline in Bitcoin's price and a substantial drop in the stock's return. The current premium to NAV is considered high in magnitude but negative, indicating a significant discount."
+  "summary": "The MicroStrategy stock is currently trading at a **high negative premium** to its net asset value, having **widened** significantly over the past 30 observations. This widening premium contraction has occurred alongside a slight decrease in Bitcoin's price and a substantial decline in the stock's return, indicating a divergence from its underlying Bitcoin exposure."
 }
