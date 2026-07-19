@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-19T05:21:53Z",
+  "generated_at": "2026-07-19T05:31:41Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) tracking stock exhibits a high negative premium to NAV, currently at -30.87%, which has significantly widened from -5.56% over the past 30 days. This premium contraction coincided with a stock return of -26.68% while BTC experienced a modest positive return of 0.15% over the same period."
+  "summary": "The MSTR strategy product currently exhibits a high negative premium to NAV (-30.87%), significantly widening from -5.56% over the past 30 observations. This widening occurred despite a modest positive return in Bitcoin during the same period, while the stock experienced a notable decline."
 }
