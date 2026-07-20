@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-20T05:24:11Z",
+  "generated_at": "2026-07-20T05:37:43Z",
   "fallback_used": false,
-  "summary": "The MSTR DAT.co project exhibits a **modest negative premium** to NAV, which has **widened significantly** over the past 30 days. This widening premium trend occurred alongside a substantial stock price decline, while BTC experienced minimal returns."
+  "summary": "The MSTR trust is currently trading at a high negative premium of -30.87% to its Net Asset Value. This premium has significantly widened by -25.31% over the last 30 observations, diverging from the modest BTC return of 0.15% during the same period."
 }
