@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-22T05:21:17Z",
+  "generated_at": "2026-07-22T05:29:12Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy has a **high negative premium** of -30.16% to its Net Asset Value (NAV). This premium has **widened significantly** over the past 30 observations, decreasing by 22.23% to an average of -23.12%, while Bitcoin experienced a positive return of 7.07% during the same period."
+  "summary": "The MSTR strategy exhibits a **high negative premium** of -30.16% to its NAV, having **widened** by 22.23% over the last 30 observations. This widening occurred despite a positive BTC return during the same period, while the stock price experienced a notable decline."
 }
