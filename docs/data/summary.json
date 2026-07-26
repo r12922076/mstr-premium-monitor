@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-26T05:23:29Z",
+  "generated_at": "2026-07-26T05:36:29Z",
   "fallback_used": false,
-  "summary": "This Data Analysis Tool (DAT) project on MicroStrategy (MSTR) reveals a **high negative premium** to Net Asset Value (NAV), which has **widened** significantly over the last 30 days. This widening premium decline occurred despite a modest positive return in Bitcoin (BTC) during the same period, with the stock price experiencing a notable decrease."
+  "summary": "The MSTR trust currently trades at a modest negative premium of -32.96% to its net asset value, which has widened significantly over the past 30 days. This widening premium correlates with a decline in the stock price, despite a positive return in Bitcoin during the same period."
 }
