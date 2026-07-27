@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-07-26T05:36:29Z",
+  "generated_at": "2026-07-27T05:29:56Z",
   "fallback_used": false,
-  "summary": "The MSTR trust currently trades at a modest negative premium of -32.96% to its net asset value, which has widened significantly over the past 30 days. This widening premium correlates with a decline in the stock price, despite a positive return in Bitcoin during the same period."
+  "summary": "The MSTR strategy fund is currently trading at a **modest negative** premium to its net asset value (NAV). This premium has **widened significantly** over the last 30 days, moving from -11.96% to -33.39%. This widening occurred despite a slight positive return in Bitcoin, while the fund's stock experienced a substantial decline."
 }
