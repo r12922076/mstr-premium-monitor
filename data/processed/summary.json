@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-04T05:26:50Z",
+  "generated_at": "2026-08-05T05:20:32Z",
   "fallback_used": false,
-  "summary": "The MSTR discount to NAV widened from -16.67% to -30.84% over the past 30 days, indicating a negative premium. This widening occurred alongside a slight decrease in Bitcoin's price and a significant decline in MSTR's stock price."
+  "summary": "The MicroStrategy stock premium to NAV is currently negative and has narrowed over the past 30 days, moving from -20.28% to -30.38%. This modest widening occurred alongside a slight decrease in Bitcoin's price and a more significant decline in the stock's price."
 }
