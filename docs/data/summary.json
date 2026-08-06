@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-06T05:20:55Z",
+  "generated_at": "2026-08-06T05:28:18Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) fund currently trades at a **modest** discount to NAV, with the premium having **widened** slightly over the past 30 observations. This movement occurred while Bitcoin experienced a small positive return, contrasting with the fund's negative stock return during the same period."
+  "summary": "The MicroStrategy (MSTR) fund is currently trading at a **modest** discount to its net asset value. This discount has **widened** slightly over the past 30 days, diverging from the modest positive return of Bitcoin during the same period. The fund's performance appears to be negatively correlated with Bitcoin's recent movement."
 }
