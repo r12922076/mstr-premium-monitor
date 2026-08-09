@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-09T04:40:40Z",
+  "generated_at": "2026-08-09T04:48:36Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) closed at a **modest** premium to NAV of -28.21%, which has **widened** by 7.92% over the past 30 days. This widening occurred as the stock price increased 21.50% while Bitcoin saw a smaller gain of 8.10% over the same period."
+  "summary": "The MicroStrategy (MSTR) tracking product currently exhibits a **negative** premium to NAV, having **widened** by 7.92% over the past 30 days to -28.21%. This premium movement occurred while Bitcoin's price saw an 8.10% return, compared to the stock's stronger 21.50% performance."
 }
