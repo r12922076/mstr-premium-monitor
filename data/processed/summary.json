@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-12T04:50:49Z",
+  "generated_at": "2026-08-12T05:00:22Z",
   "fallback_used": false,
-  "summary": "The MSTR closed at a **modest negative** premium of -29.07% to its NAV. This premium **widened slightly** by -0.85% over the last 30 days, while BTC experienced a positive return of 6.27%."
+  "summary": "The MSTR closed on 2026-08-10 with a significant negative premium of -29.07% to its mNAV, which narrowed slightly by -0.85% over the past 30 observations. This premium level, while negative, is consistent with the recent average, and its movement occurred alongside a modest increase in BTC price."
 }
