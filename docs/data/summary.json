@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-14T05:00:26Z",
+  "generated_at": "2026-08-15T04:22:48Z",
   "fallback_used": false,
-  "summary": "The strategy's premium to Net Asset Value (NAV) is currently negative and has widened slightly over the past 30 days, moving from -27.51% to -30.34%. This widening occurred despite a modest positive return in Bitcoin over the same period. The current premium of -30.34% is within its recent historical range."
+  "summary": "The strategy's DAT.co premium to NAV is currently negative at -28.67%, indicating a discount. This premium has narrowed slightly over the past 30 observations, moving from -23.67% to its current level, while BTC saw a positive return. The current premium remains within its recent trading range and is lower than its average over the observation window."
 }
