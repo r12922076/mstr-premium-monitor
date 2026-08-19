@@ -1,7 +1,7 @@
 {
-  "backend": "gemini",
-  "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-18T04:36:47Z",
-  "fallback_used": false,
-  "summary": "The MSTR DAT.co project exhibits a **modest** negative premium to NAV of -31.19%. This premium has **widened** slightly over the past 30 observations, narrowing from -26.66% to its current level. The negative premium appears loosely correlated with a recent decrease in the BTC price and a more significant drop in the stock's return over the same period."
+  "backend": "rule_based",
+  "model_id": null,
+  "generated_at": "2026-08-19T04:24:23Z",
+  "fallback_used": true,
+  "summary": "As of 2026-08-17, MSTR is trading at a discount to the Bitcoin-backed NAV proxy, with premium to NAV at -29.47% and mNAV at 0.71x. Over the last 30 observations, the premium has been relatively stable around -30.10%. During the same window, BTC moved 1.91% while MSTR moved 0.33%. [Fallback activated: ServerError]"
 }
