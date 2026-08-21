@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-21T04:24:56Z",
+  "generated_at": "2026-08-21T04:37:08Z",
   "fallback_used": false,
-  "summary": "MicroStrategy's premium to NAV remains negative at -29.90%, indicating a discount. This discount has slightly narrowed by 0.90% over the past 30 days, even as Bitcoin experienced a positive return."
+  "summary": "The MSTR trust is currently trading at a **modest** negative premium of -29.90% to its NAV. This premium has **widened slightly** by 0.90% over the past 30 observations, while Bitcoin experienced a 9.61% return."
 }
