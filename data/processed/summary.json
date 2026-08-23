@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-23T04:24:00Z",
+  "generated_at": "2026-08-23T04:36:56Z",
   "fallback_used": false,
-  "summary": "MicroStrategy's latest premium to NAV is a **modest negative**, narrowing by 1.98% over the past 30 observations to -29.10%. This premium change occurred while BTC experienced a significant 25.86% return, with the stock outperforming BTC's return."
+  "summary": "The MSTR closed at a **modest** discount to NAV of -29.10%, which has **narrowed** by 1.98% over the last 30 days. This premium performance occurred alongside a significant BTC price increase of 25.86%."
 }
