@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-25T04:37:09Z",
+  "generated_at": "2026-08-26T04:25:36Z",
   "fallback_used": false,
-  "summary": "The MSTR corporate action exhibits a negative premium of -29.10% to its net asset value, which has modestly widened by 1.98% over the past 30 observations. This movement occurred alongside a notable 25.86% increase in Bitcoin price, with the stock experiencing a slightly higher 29.48% return."
+  "summary": "MicroStrategy's premium to Net Asset Value is currently negative and modest at -27.67%, having narrowed slightly over the past 30 observations. This narrowing occurred as the stock price experienced a strong return of 25.67%, outpacing the Bitcoin return of 21.57% during the same period."
 }
