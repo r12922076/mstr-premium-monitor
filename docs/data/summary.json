@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-26T04:25:36Z",
+  "generated_at": "2026-08-26T04:37:19Z",
   "fallback_used": false,
-  "summary": "MicroStrategy's premium to Net Asset Value is currently negative and modest at -27.67%, having narrowed slightly over the past 30 observations. This narrowing occurred as the stock price experienced a strong return of 25.67%, outpacing the Bitcoin return of 21.57% during the same period."
+  "summary": "The MicroStrategy (MSTR) trust currently exhibits a **modest negative premium** of -27.67% to its net asset value. This premium has **widened** slightly by 2.36% over the past 30 observations, during which Bitcoin saw a 21.57% return."
 }
