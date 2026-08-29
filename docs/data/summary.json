@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-28T06:57:09Z",
+  "generated_at": "2026-08-29T04:24:14Z",
   "fallback_used": false,
-  "summary": "The MSTR DAT.co project shows a **modest** premium, currently at -27.40%, which has **widened** by 3.95% over the last 30 days. This widening occurred as the stock price increased significantly (31.01%) during a period of strong Bitcoin performance (23.89%)."
+  "summary": "The premium for Strategy (MSTR) is currently a modest -20.26%, widening from -30.87% over the last 30 days. This widening premium coincided with significant gains in both BTC and the company's stock price."
 }
