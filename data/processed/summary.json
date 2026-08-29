@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-29T04:24:14Z",
+  "generated_at": "2026-08-29T04:30:43Z",
   "fallback_used": false,
-  "summary": "The premium for Strategy (MSTR) is currently a modest -20.26%, widening from -30.87% over the last 30 days. This widening premium coincided with significant gains in both BTC and the company's stock price."
+  "summary": "The MSTR DAT.co project shows a recent premium to NAV of -20.26%, which is a modest negative premium. This premium has widened from -30.87% over the last 30 observations, a move that occurred alongside a significant 25.60% rise in BTC price."
 }
