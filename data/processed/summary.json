@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-08-30T04:25:39Z",
+  "generated_at": "2026-08-30T04:31:50Z",
   "fallback_used": false,
-  "summary": "The premium for MicroStrategy (MSTR) is currently modest and negative at -20.26%, having widened by 10.60% over the last 30 observations. This widening premium movement occurred as Bitcoin's price saw a significant increase of 25.60% during the same period."
+  "summary": "The premium for Strategy (MSTR) is currently negative, reflecting a discount to its net asset value. Over the past 30 days, this discount has narrowed significantly by 10.60%, while Bitcoin experienced a substantial rise. The current -20.26% premium, compared to the window average of -29.38%, suggests a moderating discount relative to its recent history and the strong performance of BTC."
 }
