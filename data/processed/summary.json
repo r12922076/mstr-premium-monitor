@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-01T04:27:20Z",
+  "generated_at": "2026-09-01T04:34:06Z",
   "fallback_used": false,
-  "summary": "MicroStrategy's discount to NAV has widened slightly to a negative premium of -23.82%, moving from -30.16% over the past 30 days. This modest widening occurred despite a significant increase in the underlying BTC price."
+  "summary": "The Strategy (MSTR) Trust currently exhibits a negative premium to its Net Asset Value, indicating its shares are trading below the value of its underlying Bitcoin holdings. Over the last 30 observations, this discount has narrowed. The observed premium movement and stock performance, despite BTC's significant rise, suggest factors beyond just the underlying asset price influencing the trust's valuation."
 }
