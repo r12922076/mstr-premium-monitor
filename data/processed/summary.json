@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-01T04:34:06Z",
+  "generated_at": "2026-09-02T04:29:39Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) Trust currently exhibits a negative premium to its Net Asset Value, indicating its shares are trading below the value of its underlying Bitcoin holdings. Over the last 30 observations, this discount has narrowed. The observed premium movement and stock performance, despite BTC's significant rise, suggest factors beyond just the underlying asset price influencing the trust's valuation."
+  "summary": "The MSTR DAT.co project shows a modest negative premium of -21.17%, which has widened by 7.43% over the last 30 days. This widening occurred as the stock price saw a significant gain of 30.40% against an 18.11% rise in Bitcoin."
 }
