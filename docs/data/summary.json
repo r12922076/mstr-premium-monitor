@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-07T04:35:58Z",
+  "generated_at": "2026-09-08T04:26:57Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) tracker shows a **modest** premium to NAV, which has **widened** from -27.90% to -16.52% over the past 30 observations. This premium movement occurred alongside a significant increase in Bitcoin's price, which rose by 25.02%."
+  "summary": "The company's premium to Net Asset Value (NAV) is currently negative at -16.52%, indicating a discount. This premium has widened significantly from -27.90% over the last 30 observations, while the stock price has outperformed Bitcoin's return during the same period. The mNAV of 0.83x suggests the stock is trading at a discount relative to its underlying Bitcoin holdings."
 }
