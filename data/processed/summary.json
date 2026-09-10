@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-10T04:27:17Z",
+  "generated_at": "2026-09-10T04:34:03Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) strategy exhibits a negative premium to NAV, which has narrowed by 10.94% over the last 30 days to -18.94%. This narrowing occurred as the stock price saw significant gains (41.97%) alongside a strong BTC price increase (22.81%)."
+  "summary": "The MSTR strategy DAT.co project shows a negative premium to NAV of -18.94%, which has narrowed by 10.94% over the last 30 observations. This premium movement occurred while Bitcoin experienced a significant positive return."
 }
