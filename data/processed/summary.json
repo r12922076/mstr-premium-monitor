@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-11T04:34:09Z",
+  "generated_at": "2026-09-12T04:25:36Z",
   "fallback_used": false,
-  "summary": "The premium to NAV for MSTR's DAT.co project is currently negative at -21.03%, representing a modest discount. This premium has widened by 10.96% over the last 30 observations, moving from a wider negative to a narrower negative, while BTC saw a 22.46% return during the same period."
+  "summary": "The MicroStrategy (MSTR) equity shows a premium to NAV of -21.80%, indicating a negative premium. This premium has widened by 7.87% over the last 30 observations. The widening premium occurred alongside a significant increase in Bitcoin's price and a substantial return for the MSTR stock."
 }
