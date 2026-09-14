@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-14T04:30:03Z",
+  "generated_at": "2026-09-14T04:37:15Z",
   "fallback_used": false,
-  "summary": "The company's premium to Net Asset Value (NAV) is currently **modest negative** at -20.96% and has **widened** by 9.88% over the last 30 days. This premium movement occurred while Bitcoin experienced a substantial return of 22.86%."
+  "summary": "The MicroStrategy (MSTR) investment trust shows a negative premium of -20.96% to its net asset value (NAV), which has widened by 9.88% over the last 30 observations. This widening occurred despite a significant 22.86% increase in Bitcoin's price during the same period."
 }
