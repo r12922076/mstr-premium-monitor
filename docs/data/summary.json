@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-15T04:28:01Z",
+  "generated_at": "2026-09-15T04:34:39Z",
   "fallback_used": false,
-  "summary": "The premium to NAV for MSTR has narrowed over the last 30 days, moving from a modest negative to a less negative value. This widening movement occurred alongside a significant increase in BTC price, with the stock outperforming BTC returns during this period."
+  "summary": "The MSTR ETF's premium to Net Asset Value is currently negative at -20.96%, representing a modest improvement from its recent trading range. This premium has widened from -30.84% over the last 30 days, during which time Bitcoin experienced a significant price increase."
 }
