@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-16T04:27:49Z",
+  "generated_at": "2026-09-16T04:34:51Z",
   "fallback_used": false,
-  "summary": "The fund's premium to NAV is currently negative, indicating a discount. Over the past 30 days, this discount has narrowed significantly, moving from -30.38% to -18.40%. This narrowing occurred alongside a substantial increase in Bitcoin's price and a strong return for the company's stock."
+  "summary": "The MSTR trust's premium to NAV is currently negative, narrowing over the past 30 days. This narrowing coincided with a significant increase in Bitcoin's price, while the trust's stock price saw a larger percentage gain."
 }
