@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-17T04:35:04Z",
+  "generated_at": "2026-09-18T04:27:12Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) closed at a **modest** discount to its Net Asset Value (NAV) of -20.17% on 2026-09-15. This discount has **widened** from -29.00% over the past 30 observations, coinciding with a significant increase in the Bitcoin price."
+  "summary": "The premium for this strategy remains negative, indicating the stock is trading below its net asset value, and has narrowed over the past 30 observations. This narrowing occurred alongside a significant increase in BTC price and a corresponding higher return in the stock price."
 }
