@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-20T04:26:44Z",
+  "generated_at": "2026-09-20T04:33:37Z",
   "fallback_used": false,
-  "summary": "The MSTR trust's premium to NAV is currently negative, reflecting a discount that has significantly narrowed from -28.21% to -11.39% over the past 30 observations. This narrowing premium coincided with a substantial increase in BTC price and a strong performance in the company's stock price."
+  "summary": "The strategy fund currently trades at a modest negative premium of -11.39% to its NAV, which has widened from -28.21% over the last 30 observations. This widening premium movement occurred alongside a significant increase in both the underlying BTC price and the fund's stock price."
 }
