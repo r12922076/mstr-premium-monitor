@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-25T04:28:35Z",
+  "generated_at": "2026-09-25T04:36:16Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) fund currently trades at a modest negative premium to its Net Asset Value (NAV). Over the last 30 observations, this premium has narrowed significantly, outperforming Bitcoin's return during the same period."
+  "summary": "The MSTR strategy shows a negative premium to NAV of -10.47%, indicating it is trading below its net asset value. This premium has widened significantly from -30.34% over the last 30 observations, coinciding with a substantial increase in Bitcoin's price."
 }
