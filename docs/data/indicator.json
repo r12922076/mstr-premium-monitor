@@ -5,7 +5,7 @@
     "ticker": "MSTR",
     "btc_ticker": "BTC-USD",
     "currency": "USD",
-    "last_updated": "2026-09-25T04:36:14Z",
+    "last_updated": "2026-09-26T04:26:38Z",
     "methodology_version": "v1",
     "holdings_as_of": "2025-03-31",
     "btc_holdings": 528185.0,
@@ -13,16 +13,16 @@
     "notes": "Update btc_holdings and shares_outstanding manually from public company disclosures before final submission if needed.",
     "source_note": "This project tracks a Bitcoin-backed NAV proxy, not full enterprise NAV.",
     "latest_observation": {
-      "date": "2026-09-23",
-      "btc_close": 84383.007812,
-      "mstr_close": 162.199997,
-      "btc_nav_total": 44569838981.44531,
-      "btc_nav_per_share": 181.178207,
-      "mnav": 0.895251,
-      "premium_to_nav": -0.104749,
-      "premium_to_nav_pct": -10.474886,
-      "mnav_30d_ma": 0.775334,
-      "premium_30d_ma": -0.224666
+      "date": "2026-09-24",
+      "btc_close": 84379.0625,
+      "mstr_close": 161.610001,
+      "btc_nav_total": 44567755126.56249,
+      "btc_nav_per_share": 181.169736,
+      "mnav": 0.892036,
+      "premium_to_nav": -0.107964,
+      "premium_to_nav_pct": -10.796359,
+      "mnav_30d_ma": 0.781849,
+      "premium_30d_ma": -0.218151
     }
   },
   "series": [
@@ -8233,6 +8233,18 @@
       "premium_to_nav_pct": -10.474886,
       "mnav_30d_ma": 0.775334,
       "premium_30d_ma": -0.224666
+    },
+    {
+      "date": "2026-09-24",
+      "btc_close": 84379.0625,
+      "mstr_close": 161.610001,
+      "btc_nav_total": 44567755126.56249,
+      "btc_nav_per_share": 181.169736,
+      "mnav": 0.892036,
+      "premium_to_nav": -0.107964,
+      "premium_to_nav_pct": -10.796359,
+      "mnav_30d_ma": 0.781849,
+      "premium_30d_ma": -0.218151
     }
   ]
 }
