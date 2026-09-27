@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-27T04:28:27Z",
+  "generated_at": "2026-09-27T04:36:05Z",
   "fallback_used": false,
-  "summary": "The MSTR DAT.co project shows a premium to NAV that is currently negative and has widened over the past 30 observations. This premium movement occurred alongside a substantial increase in both the stock price and the Bitcoin price during the same period."
+  "summary": "The MicroStrategy (MSTR) Data Analytics Tool dashboard shows a **modest** premium to Net Asset Value (NAV) of -12.09%, which has **widened** from -31.19% over the last 30 days. This widening occurred alongside a significant increase in Bitcoin's price, suggesting the stock's performance outpaced the underlying asset's growth."
 }
