@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-09-30T04:38:30Z",
+  "generated_at": "2026-10-01T04:31:04Z",
   "fallback_used": false,
-  "summary": "The fund's premium to Net Asset Value (NAV) is currently negative, sitting at -12.35%, having widened from -29.47% over the past 30 observations. This widening premium occurred alongside a significant increase in the underlying Bitcoin price and a substantial rise in the company's stock price."
+  "summary": "The strategy vehicle exhibits a negative premium to NAV of -13.85%, indicating it is trading below its net asset value. Over the last 30 observations, the premium has widened significantly from -33.38% to its current level, outperforming Bitcoin's return during the same period."
 }
