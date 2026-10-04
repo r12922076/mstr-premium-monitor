@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-04T05:55:52Z",
+  "generated_at": "2026-10-04T06:02:01Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) DAT.co project shows a **modest** premium to NAV, which has **widened** significantly over the past 30 observations from -29.10% to -11.80%. This premium movement occurred while BTC experienced a positive return, though the stock significantly outperformed BTC over the same period."
+  "summary": "The Strategy (MSTR) DAT.co project currently trades at a modest negative premium of -11.80% to its NAV, which has narrowed significantly from -29.10% over the last 30 days. This narrowing premium coincided with a substantial increase in the stock price, outperforming the Bitcoin return over the same period."
 }
