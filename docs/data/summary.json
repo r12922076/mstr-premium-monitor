@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-06T04:30:44Z",
+  "generated_at": "2026-10-06T04:38:18Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) data shows a recent premium to NAV of -11.80%, which is modest and has narrowed from -29.10% over the past 30 observations. This narrowing occurred as the stock price saw significant gains, outpacing the modest Bitcoin return during the same period."
+  "summary": "The MSTR fund's premium to NAV is currently modest and negative, having widened from a more negative start over the last 30 observations. This widening occurred despite a positive BTC return over the same period, while the stock itself saw significant positive returns."
 }
