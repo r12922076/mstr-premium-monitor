@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-05T05:00:07Z",
+  "generated_at": "2026-10-06T04:30:44Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy fund is currently trading at a modest discount to NAV, with the premium having narrowed significantly over the past 30 days. This narrowing occurred despite a positive return in BTC, while the stock itself experienced a much larger positive return."
+  "summary": "The MicroStrategy (MSTR) data shows a recent premium to NAV of -11.80%, which is modest and has narrowed from -29.10% over the past 30 observations. This narrowing occurred as the stock price saw significant gains, outpacing the modest Bitcoin return during the same period."
 }
