@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-14T04:37:14Z",
+  "generated_at": "2026-10-15T04:27:00Z",
   "fallback_used": false,
-  "summary": "The company's premium to NAV has been negative and is currently at -13.03%, representing a modest widening from -21.17% over the past 30 observations. This premium movement occurred while Bitcoin saw a 4.09% return."
+  "summary": "The MicroStrategy (MSTR) fund is currently trading at a **modest** negative premium of -14.70%. This premium has **widened** by 10.15% over the last 30 observations, outperforming the 7.35% return of Bitcoin during the same period."
 }
