@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-15T04:27:00Z",
+  "generated_at": "2026-10-15T04:34:45Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) fund is currently trading at a **modest** negative premium of -14.70%. This premium has **widened** by 10.15% over the last 30 observations, outperforming the 7.35% return of Bitcoin during the same period."
+  "summary": "The MSTR closed at a **modest premium** of -14.70%, representing a widening from its starting point. This widening occurred despite a positive BTC return over the recent 30-day window, suggesting independent stock performance influenced the premium movement."
 }
