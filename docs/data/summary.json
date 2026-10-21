@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-20T04:35:53Z",
+  "generated_at": "2026-10-21T04:28:19Z",
   "fallback_used": false,
-  "summary": "This report covers the MicroStrategy (MSTR) DAT.co project as of October 16, 2026. The premium to Net Asset Value (NAV) is currently negative and widened slightly over the past 30 days, moving from -16.52% to -21.81%. This widening occurred while Bitcoin saw a modest positive return, and the stock experienced a slight decline."
+  "summary": "The Strategy (MSTR) company exhibited a **modest** premium to NAV of -22.60% as of October 19, 2026, which **widened** slightly from the start of the 30-day observation window. This premium movement occurred alongside a modest increase in Bitcoin's price, while the stock experienced a slight decline."
 }
