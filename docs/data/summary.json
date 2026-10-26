@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-26T04:31:05Z",
+  "generated_at": "2026-10-26T04:40:37Z",
   "fallback_used": false,
-  "summary": "The MSTR trust is currently trading at a **modest negative premium** to its net asset value, which has **widened slightly** over the past 30 days. This widening occurred despite a positive BTC return and a stronger stock return, indicating the premium movement is not directly correlated with recent BTC price action."
+  "summary": "The MicroStrategy (MSTR) DAT.co project shows a **modest negative premium** of -16.12% to its net asset value, which has **widened** slightly over the past 30 observations. This premium movement occurred while Bitcoin experienced a positive return, and MSTR's stock price saw a stronger positive return."
 }
