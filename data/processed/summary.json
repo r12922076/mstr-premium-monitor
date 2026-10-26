@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-25T04:35:32Z",
+  "generated_at": "2026-10-26T04:31:05Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) product's premium to Net Asset Value is currently negative, indicating a discount. This discount has modestly narrowed over the past 30 observations, from -18.40% to -16.12%. The observed changes in premium appear to have slightly outperformed the recent Bitcoin return during this period."
+  "summary": "The MSTR trust is currently trading at a **modest negative premium** to its net asset value, which has **widened slightly** over the past 30 days. This widening occurred despite a positive BTC return and a stronger stock return, indicating the premium movement is not directly correlated with recent BTC price action."
 }
