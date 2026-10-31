@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-10-30T04:29:47Z",
+  "generated_at": "2026-10-31T04:17:25Z",
   "fallback_used": false,
-  "summary": "The premium to NAV for MSTR has been negative, widening slightly over the last 30 observations from -19.38% to -16.81%. This widening premium occurred while Bitcoin's price saw a modest increase, and the stock's return outperformed Bitcoin during the observed period. The current premium remains at -16.81%."
+  "summary": "The latest premium to NAV for MSTR is a modest -15.19%, narrowing from -11.39% over the last 30 days. This premium movement occurred while Bitcoin experienced a similar negative return of -3.86%. The stock's price also declined over the observed window."
 }
