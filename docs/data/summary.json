@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-06T04:18:53Z",
+  "generated_at": "2026-11-06T04:27:13Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) stock is trading at a negative premium to its NAV, which has recently narrowed from -10.80% to -17.43%. This widening of the discount occurred alongside a decrease in the Bitcoin price and a larger decrease in the stock's price over the past 30 observations. The current premium is considered modest given the recent trend."
+  "summary": "The company's premium to NAV remains negative, indicating it traded at a discount. Over the last 30 days, the premium has widened by 6.64 percentage points, moving from -10.80% to -17.43%, while Bitcoin experienced a modest decline."
 }
