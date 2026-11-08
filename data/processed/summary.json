@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-07T04:26:25Z",
+  "generated_at": "2026-11-08T04:17:48Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy's premium to NAV was negative and has narrowed by 8.61% over the past 30 observations, currently standing at -20.70%. This premium movement occurred as Bitcoin experienced a -9.63% return and the stock price declined by -18.48% during the same period."
+  "summary": "The MSTR DAT.co project currently exhibits a modest negative premium to Net Asset Value (NAV) of -20.72%, which has narrowed by 8.37% over the last 30 days. This premium movement occurred alongside a notable decline in both the stock price and Bitcoin's price during the observation window."
 }
