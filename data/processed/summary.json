@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-08T04:26:41Z",
+  "generated_at": "2026-11-09T04:20:01Z",
   "fallback_used": false,
-  "summary": "The MSTR DAT.co project's premium to NAV is currently a modest -20.72%, having widened by 8.37% over the last 30 days as Bitcoin's price declined by 9.29%. This widening occurred within a recent range of -22.60% to -10.42%, with the stock price experiencing a more significant decrease than Bitcoin."
+  "summary": "The premium to NAV for MSTR is currently negative at -20.72%, representing a high discount. This premium has widened over the past 30 observations, moving from -12.35% to its current level, coinciding with a decline in the Bitcoin price."
 }
