@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-10T04:17:52Z",
+  "generated_at": "2026-11-10T04:26:58Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy has a modest negative premium of -20.72%, which narrowed by 8.37% over the last 30 days. This narrowing occurred as the stock price declined more significantly than Bitcoin's price."
+  "summary": "The Strategy (MSTR) product is currently trading at a modest negative premium of -20.72% to its net asset value (NAV). This premium has narrowed by 8.37% over the past 30 observations, coinciding with a decrease in Bitcoin's price and a larger decline in the stock's own value."
 }
