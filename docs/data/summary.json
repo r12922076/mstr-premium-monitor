@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-11T04:27:34Z",
+  "generated_at": "2026-11-12T04:18:15Z",
   "fallback_used": false,
-  "summary": "The company's premium to NAV is currently negative, indicating a discount. This discount has widened over the past 30 observations and is notably larger than the average discount observed during that period. The strategy's stock performance has lagged behind Bitcoin's return over the same window."
+  "summary": "MicroStrategy's equity is trading at a **negative premium** of -23.51% to its Net Asset Value (NAV), which has **widened** by 8.85% over the last 30 days. This widening premium occurred as the stock price declined more significantly than the underlying Bitcoin holdings, which also saw a decrease during the same period."
 }
