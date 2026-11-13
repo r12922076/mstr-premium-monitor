@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-13T04:18:22Z",
+  "generated_at": "2026-11-13T04:27:34Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) closed at a **modest negative premium** of -22.96% to its net asset value (NAV). This premium **widened** by 11.05% over the past 30 observations, a period during which Bitcoin experienced a -12.83% return."
+  "summary": "The Strategy (MSTR) DAT.co project shows a negative premium of -22.96% to its Net Asset Value (NAV). This premium has widened significantly by -11.05% over the last 30 observations, moving from -11.90% to its current level. This widening occurred alongside a notable decrease in Bitcoin's price."
 }
