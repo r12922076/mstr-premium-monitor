@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-14T04:26:49Z",
+  "generated_at": "2026-11-15T04:17:49Z",
   "fallback_used": false,
-  "summary": "The MSTR strategy shows a negative premium of -25.31%, which has widened significantly by -13.51% over the last 30 observations. This widening premium movement was observed alongside a -15.57% return in BTC over the same period."
+  "summary": "The MicroStrategy (MSTR) trust currently trades at a negative premium of -23.83% to its Net Asset Value (NAV), representing a significant widening from its recent average. This premium has widened considerably over the past 30 days, outpacing a decline in Bitcoin's price."
 }
