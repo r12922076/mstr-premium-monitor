@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-21T04:17:42Z",
+  "generated_at": "2026-11-21T04:27:02Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) closed at a modest negative premium of -35.20% to its net asset value (NAV) as of November 19, 2026, representing a significant widening of -22.28% over the past 30 days. This widening premium occurred as the stock price declined more sharply than Bitcoin (BTC) during the same period."
+  "summary": "The strategy's premium to NAV is currently negative and has widened significantly over the past 30 days. This widening premium is observed alongside a substantial decline in both the stock and Bitcoin prices."
 }
