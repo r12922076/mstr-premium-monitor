@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-22T04:18:54Z",
+  "generated_at": "2026-11-22T04:27:24Z",
   "fallback_used": false,
-  "summary": "The premium for the MSTR strategy remains negative, indicating a discount to Net Asset Value. Over the past 30 observations, this discount has widened significantly, correlating with a decrease in the underlying Bitcoin price. The current premium of -38.37% is the lowest observed within the analyzed window."
+  "summary": "The MicroStrategy (MSTR) stock is currently trading at a **modest** discount to its Net Asset Value (NAV). This premium has **widened** significantly over the past 30 days, moving from -13.03% to -38.37%. This widening discount appears to be correlated with a substantial decrease in both the stock price and Bitcoin's price over the same period."
 }
