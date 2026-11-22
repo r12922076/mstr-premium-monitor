@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-21T04:27:02Z",
+  "generated_at": "2026-11-22T04:18:54Z",
   "fallback_used": false,
-  "summary": "The strategy's premium to NAV is currently negative and has widened significantly over the past 30 days. This widening premium is observed alongside a substantial decline in both the stock and Bitcoin prices."
+  "summary": "The premium for the MSTR strategy remains negative, indicating a discount to Net Asset Value. Over the past 30 observations, this discount has widened significantly, correlating with a decrease in the underlying Bitcoin price. The current premium of -38.37% is the lowest observed within the analyzed window."
 }
