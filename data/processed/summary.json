@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-22T04:27:24Z",
+  "generated_at": "2026-11-23T04:20:54Z",
   "fallback_used": false,
-  "summary": "The MicroStrategy (MSTR) stock is currently trading at a **modest** discount to its Net Asset Value (NAV). This premium has **widened** significantly over the past 30 days, moving from -13.03% to -38.37%. This widening discount appears to be correlated with a substantial decrease in both the stock price and Bitcoin's price over the same period."
+  "summary": "The Strategy (MSTR) fund currently exhibits a **high** negative premium of -38.37% to its Net Asset Value (NAV). This premium has **widened** significantly over the past 30 days, moving from -13.03% to its current level, while Bitcoin experienced a more modest decline. This divergence suggests increased selling pressure on the fund relative to its underlying Bitcoin holdings during the observed period."
 }
