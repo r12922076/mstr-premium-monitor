@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-27T04:19:15Z",
+  "generated_at": "2026-11-27T04:29:01Z",
   "fallback_used": false,
-  "summary": "The Strategy (MSTR) company's premium to Net Asset Value (NAV) is currently negative and widened significantly over the past 30 observations. This widening trend in the negative premium occurred alongside a substantial decrease in the Bitcoin price and a more pronounced drop in the stock's price."
+  "summary": "The strategy's premium to NAV, currently at a negative -38.32%, has widened significantly over the past 30 days, moving from -14.22% to its current level. This widening premium contraction occurred alongside a decline in Bitcoin's price and a larger decline in the strategy's stock price. The recent performance suggests a high level of discount to NAV."
 }
