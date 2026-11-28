@@ -1,7 +1,7 @@
 {
   "backend": "gemini",
   "model_id": "gemini-2.5-flash-lite",
-  "generated_at": "2026-11-28T04:18:34Z",
+  "generated_at": "2026-11-28T04:28:41Z",
   "fallback_used": false,
-  "summary": "The MSTR trust is currently trading at a **modest** discount to its net asset value, as the premium has widened significantly over the past 30 days. This widened discount correlates with a substantial decrease in both the trust's stock price and the price of Bitcoin during the observation period."
+  "summary": "The Strategy (MSTR) data shows a **high** negative premium to NAV, widening significantly by -24.10% over the last 30 observations. This widened discount occurred as the stock price experienced a substantial decline, mirroring broader market sentiment indicated by BTC's return. The current premium of -38.32% is near the lower end of its recent trading range."
 }
